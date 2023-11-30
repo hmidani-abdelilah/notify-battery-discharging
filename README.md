@@ -4,4 +4,4 @@ notify battery discharging less than 30 percent
 * * change username in script 
 * example crontab evrey 5 minutes
   
-```*/2 * * * * /home/$USER/.local/bin/power.sh```
+```*/5 * * * * /home/$USER/.local/bin/power.sh```
